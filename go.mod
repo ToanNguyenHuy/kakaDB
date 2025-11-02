@@ -1,3 +1,3 @@
 module github.com/ToanNguyenHuy/kakaDB.git
 
-go 1.23
+go 1.23.0
